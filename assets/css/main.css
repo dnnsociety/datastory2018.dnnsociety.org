@@ -3748,3 +3748,10 @@ body.is-loading #banner p {
         padding: 2em 1.5em 0.1em 1.5em;
     }
 }
+
+.trial {
+    background-color: #f8fafcc4;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    border-bottom: 0px;
+}
