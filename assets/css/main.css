@@ -2522,7 +2522,7 @@ button,
     -webkit-transition: background-color 0.2s ease-in-out;
     -ms-transition: background-color 0.2s ease-in-out;
     transition: background-color 0.2s ease-in-out;
-    background-color: transparent;
+    background-color: rgba(23, 62, 120, 0.427);
     border-radius: 5px;
     border: 0;
     box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.125);
@@ -2547,7 +2547,7 @@ input[type="reset"]:hover,
 input[type="button"]:hover,
 button:hover,
 .button:hover {
-    background-color: rgba(255, 255, 255, 0.025);
+    background-color: rgba(80, 147, 230, 0.466);
 }
 
 input[type="submit"]:active,
@@ -2555,7 +2555,7 @@ input[type="reset"]:active,
 input[type="button"]:active,
 button:active,
 .button:active {
-    background-color: rgba(255, 255, 255, 0.075);
+    background-color: rgba(78, 108, 207, 0.269);
 }
 
 input[type="submit"].icon:before,
@@ -2564,7 +2564,7 @@ input[type="button"].icon:before,
 button.icon:before,
 .button.icon:before {
     margin-right: 0.5em;
-    color: rgba(255, 255, 255, 0.35);
+    color: rgba(23, 62, 120, 0.427);
 }
 
 input[type="submit"].special,
@@ -2572,7 +2572,7 @@ input[type="reset"].special,
 input[type="button"].special,
 button.special,
 .button.special {
-    background-color: #4c5c96;
+    background-color: #eb8068;
     box-shadow: none;
 }
 
@@ -2581,7 +2581,7 @@ input[type="reset"].special:hover,
 input[type="button"].special:hover,
 button.special:hover,
 .button.special:hover {
-    background-color: #53639e;
+    background-color: #ab301a;
 }
 
 input[type="submit"].special:active,
@@ -2589,7 +2589,7 @@ input[type="reset"].special:active,
 input[type="button"].special:active,
 button.special:active,
 .button.special:active {
-    background-color: #45558d;
+    background-color: #d04830;
 }
 
 input[type="submit"].special.icon:before,
@@ -2597,7 +2597,7 @@ input[type="reset"].special.icon:before,
 input[type="button"].special.icon:before,
 button.special.icon:before,
 .button.special.icon:before {
-    color: #7985b0;
+    color: #ed4a2d;
 }
 
 input[type="submit"].fit,
