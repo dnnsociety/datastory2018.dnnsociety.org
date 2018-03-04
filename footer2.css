@@ -7,6 +7,6 @@
     align-items: start;
 }
 
-.horizontal1 {
+.horizontal {
     grid-column: span 2;
 }
