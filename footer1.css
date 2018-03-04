@@ -9,7 +9,7 @@
 
 .container3>div>img {
     width: auto;
-    min-width: 140px;
+    min-width: 150px;
     max-width: 170px;
     height: auto;
     object-fit: cover;
